@@ -1,30 +1,27 @@
-# Tặng Crush
-## _Một điều nho nhỏ tỏ tình với crush_
+# Tặng m
+## _Một điều nho nhỏ nhắn tới đỹ bạn thân
 
-Liên lạc: 
-[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/nam.nodemy)
-[![Tiktok](https://i.imgur.com/Nbfl1E7t.jpg)](https://www.tiktok.com/@manindev)
-
-Mở file config.js sửa nội dung theo mẫu
+Liên lạc
+https://www.facebook.com/profile.php?id=100058690996292
 ```
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'condy à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Mà sao m cứ đi nhầm đường
+    Lạc vào tim kao lẻ loi
+    Đằng sau chữ yêu đây là 🐛`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    title: 'Phải chăng m đã ghét t ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng em đã khum ưa ngay từ lúc thấy nụ cười ấy🥺 ',
+    btnYes: 'Vẫn cứ là là ghét t <33',
+    btnNo: 'Không,ghét mà à :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao m lại yêu ghét t 😏,
+    btnReply: 'Gửi cho t <3',
+    reply: 'chỉ thì chỉ mà không chỉ thì chỉ <33333333',
+    mess: 't biết mà 🤧. Dỗi m nhiều nhiều 😘😘',
+    messDesc: 'nhớ chỉ bài cko kaoooo.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: https://www.facebook.com/profile.php?id=100058690996292
 }
 ```
 
